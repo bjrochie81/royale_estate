@@ -4,7 +4,7 @@
             <p class="text-center">1 Royale Estate<br><i class="fa fa-map-marker"></i>Mandeville, 
             <br>Manchester, Jamaica W.I <br><br>email: royalestates@hotmail.com<br>phone: (876)121-1111 </p>
             </div>
-            <p class="text-center"> Copyright &copy; -Barrington Rochester Royale Estate Application <?php echo date('yy'); ?></p>
+            <p class="text-center"> Copyright &copy; - Barrington Rochester Royale Estate Application <?php echo date('yy'); ?></p>
         </div>
     </div>
  <!-- Optional JavaScript; choose one of the two! -->

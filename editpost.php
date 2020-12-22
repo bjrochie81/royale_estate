@@ -13,8 +13,9 @@
         $email = $_POST['email'];
         $visit_purpose = $_POST['visit_purpose'];
         //Call crud function
-        $result = $crud->editVisitor($id,$fname,$lname,$datein,$dateout,$vehicle_type,$plate_number,$email,$visit_purpose);
-        //Redirect to index.php
+        $result = $crud->editVisitor($id,$fname,$lname,$datein,$dateout,$vehicle_type,$plate_number,
+        $email,$visit_purpose);
+        //Redirect to viewrecords.php
         if($result){
             header("Location: viewrecords.php");
         }
@@ -23,7 +24,7 @@
         }
     }
     else{
-        include 'includes/errrormessage.php';
+        include 'includes/errormessage.php';
     }
 
 ?>

@@ -1,8 +1,16 @@
-<?php 
-    $host = '127.0.0.1';
-    $db = 'royale_estate_db';
-    $user = 'root';
-    $pass = '';
+<?php
+    //Development Database Connection
+    //$host = '127.0.0.1';
+    //$db = 'royale_estate_db';
+    //$user = 'root';
+    //$pass = '';
+    //$charset = 'utf8mb4';
+
+    //Remote Database Connection
+    $host = 'remotemysql.com';
+    $db = 'w53xDoxATJ';
+    $user = 'w53xDoxATJ';
+    $pass = 'ICdbrJoNFP';
     $charset = 'utf8mb4';
 
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";

@@ -12,10 +12,10 @@
             
 ?>
 
-    <div class="card" style="width: 18rem;">    
+    <div class="card" style="width: 15rem;">    
          <div class="card-body">
             <h5 class="card-title">
-                <?php echo $result['firstname'].''.$result['lastname']; ?>
+                <?php echo $result['firstname'].' '.$result['lastname']; ?>
             </h5>
             <h6 class="card-subtitle mb-2 text-muted">
                 Make of Vehicle: <?php echo $result['vehicle_type']; ?>

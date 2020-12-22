@@ -19,8 +19,8 @@
         $vehicle_type,$plate_number,$email,$visit_purpose);
 
         if($isSuccess){
-            SendEmail::SendMail($email, 'Your visitor have been granted access', 'Sir/Madam ' . $fname . ' '.$lname.',
-            For any further queries, feel free to write to us or give us a call.');
+            SendEmail::SendMail($email, ' ','Sir/Madam, your visitor have been granted access ' . $fname . ' '.$lname.',
+            For any further queries, feel free to write to us or give us a call. <p>Regards,</>');
             include 'includes/successmessage.php'; 
         }
         else{
