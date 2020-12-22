@@ -6,6 +6,7 @@
 ?>
 <h1 class="text-center">About Us
 <br>
+<div class="container">
 <img src="images/phpClusterTop.jpg">
 
 </h1>
@@ -32,7 +33,7 @@
 </div>
 </div>
 <div class="col"></div>
-
+</div>
 </div>
 <br>
 <?php require_once 'includes/footer.php'; ?>
