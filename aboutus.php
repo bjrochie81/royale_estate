@@ -27,16 +27,21 @@
     <br>
     <div class="about-section">
         <p>
-            Royale Estate, Mandeville is set in Jamaica and offers a warm  
-            wealth of comfort and safety for its residents. Royale Estates is one of the first   
-            truly gated community in Mandeville.The community has two (2) clusters with its own 
-            executive body. Each of the two (2) clusters is named after Queen Elizabeth I and Cleopatra 
-            VII Philopator respectively.
+          Royale Estate, Mandeville is set in Jamaica and offers a warm  
+          wealth of comfort and safety for its residents. Royale Estates is one of the first   
+          truly gated community in Mandeville.The community has two (2) clusters with its own 
+          executive body. Each of the two (2) clusters is named after Queen Elizabeth I and Cleopatra 
+          VII Philopator respectively.
         </p>
         <p>
-            The Royale Estate is comprised of a board of directors, all of whom
-            are volunteers and homeowners, various committees, in addition to a property manager and
-            supporting staff that help oversee the day to day operations of the community.
+          The first truly gated community in Mandeville boasts manned security post at its main entrances 
+          along with secure perimeter fencing, web access control application and 24-hour patrol with monitored 
+          electronic security surveillance systems.
+        </p>
+        <p>
+          The Royale Estate is comprised of a board of directors, all of whom
+          are volunteers and homeowners, various committees, in addition to a property manager and
+          supporting staff that help oversee the day to day operations of the community.
         </p>
     </div>
 <br>
