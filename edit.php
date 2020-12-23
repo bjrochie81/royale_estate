@@ -19,7 +19,7 @@
 <h1 class="text-center">Edit Visitor Record</h1>
 
 <form method="post" action="editpost.php">
-    <input type="hidden" name="id" value="<?php echo $vistor['visitor_id'] ?>" />
+    <input type="hidden" name="id" value="<?php echo $visitor['visitor_id'] ?>" />
     <div class="form-group">
         <label for="firstname">First Name</label>
         <input type="text" class="form-control" value="<?php echo $visitor['firstname'] ?>" 

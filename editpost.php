@@ -12,6 +12,7 @@
         $plate_number = $_POST['plate_number'];
         $email = $_POST['email'];
         $visit_purpose = $_POST['visit_purpose'];
+        
         //Call crud function
         $result = $crud->editVisitor($id,$fname,$lname,$datein,$dateout,$vehicle_type,$plate_number,
         $email,$visit_purpose);
